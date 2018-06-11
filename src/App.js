@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">this is my test</h1>
         </header>
         <p className="App-intro">
-          my name is cc<code>src/App.js</code> and save to reload.
+          my name is chx<code>src/App.js</code> and save to reload.
         </p>
       </div>
     );
